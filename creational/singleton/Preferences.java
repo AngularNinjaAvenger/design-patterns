@@ -1,4 +1,4 @@
-package creational.singleton.improved;
+package creational.singleton;
 
 public class Preferences {
 	
